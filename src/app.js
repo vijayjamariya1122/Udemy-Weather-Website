@@ -114,4 +114,5 @@ app.get('*', (req, res) => {
 //express listening on port no 3000
 app.listen(3000, () => {
     console.log('server listing on 3000');
+    console.log('Udemy Node')
 })
